@@ -1,0 +1,24 @@
+{
+   "metadata":{
+      "version":"1"
+   },
+   "templates":[
+      {
+         "path":"python/django/python-guestbook",
+         "name":"Guestbook Template",
+         "description":"some description here...",
+         "languages":[
+            "python",
+            "java"
+         ]
+      },
+      {
+         "path":"path/to/dir",
+         "name":"Node.js: Custom Template 1",
+         "description":"some description here...",
+         "languages":[
+            "nodejs"
+         ]
+      }
+   ]
+}
