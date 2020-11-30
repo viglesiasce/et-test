@@ -5,7 +5,7 @@
    "templates":[
       {
          "path":"python/django/python-guestbook",
-         "name":"Guestbook Template",
+         "name":"Guestbook Template ABC",
          "description":"some description here...",
          "languages":[
             "python",
