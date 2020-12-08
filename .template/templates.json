@@ -4,20 +4,18 @@
    },
    "templates":[
       {
-         "path":"python/django/python-guestbook",
-         "name":"Guestbook Template ABC DEF",
-         "description":"some description here...",
+         "path":"kuubernetes/java-hello-world",
+         "name":"Hello World",
+         "description":"Copy of the k8s hello world sample app",
          "languages":[
-            "python",
             "java"
          ]
       },
       {
-         "path":"path/to/dir",
-         "name":"Node.js: Custom Template 1",
-         "description":"some description here...",
+         "path":"notes/folder1",
+         "name":"Notes",
+         "description":"random notes...",
          "languages":[
-            "nodejs"
          ]
       }
    ]
