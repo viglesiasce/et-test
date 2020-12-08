@@ -4,7 +4,7 @@
    },
    "templates":[
       {
-         "path":"kuubernetes/java-hello-world",
+         "path":"kubernetes/java-hello-world",
          "name":"Hello World",
          "description":"Copy of the k8s hello world sample app",
          "languages":[
